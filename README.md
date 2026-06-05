@@ -5,9 +5,9 @@ Practice notebooks and implementations of Machine Learning algorithms
 
 ## 📌 Overview
 
-This repository contains my practice notebooks and implementations created while learning Machine Learning concepts and algorithms.
+This repository contains my hands-on implementations and practice notebooks created while learning Machine Learning concepts and algorithms.
 
-The notebooks cover fundamental supervised learning, ensemble learning, model evaluation, and optimization techniques using Python and Scikit-Learn.
+The notebooks are organized by learning topics and cover both supervised and unsupervised learning techniques using Python and Scikit-Learn.
 
 ---
 
@@ -23,15 +23,17 @@ The notebooks cover fundamental supervised learning, ensemble learning, model ev
 
 ---
 
-## 📂 Topics Covered
+## 📂 Repository Structure
 
-### Regression
+### Supervised Learning
+
+#### Regression
 
 * Linear Regression
 * Multiple Linear Regression
 * Polynomial Regression
 
-### Classification
+#### Classification
 
 * Logistic Regression
 * K-Nearest Neighbors (KNN)
@@ -40,17 +42,25 @@ The notebooks cover fundamental supervised learning, ensemble learning, model ev
 * Decision Tree
 * Random Forest
 
+### Unsupervised Learning
+
+* K-Means Clustering
+* Hierarchical Clustering
+* DBSCAN
+* Principal Component Analysis (PCA)
+
 ### Ensemble Learning
 
-* Bagging
-* Boosting
+* Ensemble Learning
 * Stacking
+* AdaBoost
+* Gradient Boosting
 * XGBoost
 
-### Model Optimization
+### Optimization & Model Training
 
 * Gradient Descent
-* Model Training & Evaluation
+* Model Training and Evaluation
 
 ---
 
@@ -60,7 +70,7 @@ The notebooks cover fundamental supervised learning, ensemble learning, model ev
 * Implement popular ML algorithms
 * Compare model performance
 * Learn model evaluation techniques
-* Build a strong foundation for advanced AI and Deep Learning concepts
+* Build a strong foundation for Deep Learning and AI
 
 ---
 
@@ -74,4 +84,4 @@ The notebooks cover fundamental supervised learning, ensemble learning, model ev
 
 ---
 
-⭐ This repository documents my Machine Learning learning journey and hands-on practice.
+⭐ This repository documents my Machine Learning learning journey and practical implementations of various algorithms.
